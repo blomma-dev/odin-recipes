@@ -1,6 +1,6 @@
 # odin-recipes
 
-I am creating this website for an assignment in The Odin Project, my main goal is to strengthen my existing HTML and CSS coding skills. This particular assignment dives back in to the bare basics of HTML, and repetition is the wisdom of learning.
+I am creating this website for an assignment in The Odin Project, my main goal is to strengthen my existing HTML and CSS coding skills. This particular assignment dives back in to the bare basics of HTML, and repetition is the mother of learning.
 
 odin-recipes for training html
 
